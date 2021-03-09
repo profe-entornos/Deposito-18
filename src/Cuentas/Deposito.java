@@ -15,6 +15,9 @@ public class Deposito {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Hola");
+        System.out.println("Esto son lineas nuevas de codigo que he añadido");
+        System.out.println("Para comprobar que cambia");
         operativa_cuenta(0.0);
     }
 
